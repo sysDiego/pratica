@@ -1,2 +1,4 @@
 1. Arroz
 2. Feijão
+3. Salada
+4. Carne
